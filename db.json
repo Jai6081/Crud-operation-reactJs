@@ -1,0 +1,32 @@
+{
+  "employee": [
+    {
+      "id": 1,
+      "name": "Lovepreet",
+      "age": "32",
+      "phone": "+915343535255",
+      "email": "lovi@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "ashish",
+      "age": "40",
+      "phone": "+917634324535",
+      "email": "Ashish@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "ashish",
+      "age": "24",
+      "phone": "+917634324535",
+      "email": "Ashish@gmail.com"
+    },
+    {
+      "name": "fer",
+      "age": "3",
+      "phone": "4242423423235",
+      "email": "asdf@gmail.com",
+      "id": 9
+    }
+  ]
+}
